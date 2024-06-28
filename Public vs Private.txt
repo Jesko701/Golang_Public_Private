@@ -1,7 +1,7 @@
 Untuk menentukan public atau private bisa dilihat dari
 - Huruf besar atau kecil dari suatu variable, fungsi, struct, dan lainnya.
 1. Huruf besar (public)
-2. Huruf kecil (private) - tidak bisa dipanggil keluar file
+2. Huruf kecil (private) - tidak bisa dipanggil keluar folder (masih bisa diakses dalam folder)
 
 
 sangat simple...
