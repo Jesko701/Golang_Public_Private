@@ -1,0 +1,12 @@
+go test [original file] [testing file] -v       // normal test and all details
+go test [original file] [testing file] -bench=. // for benchmark
+go test -v ./...                                // finding all the test file to run recursive
+
+*name of the function for testing must UpperCase 
+
+for testing file, the end of the name must had "test" word
+    example:
+    ---- cubeFunction_test.go ⭕
+    ---- cube_test_Testify.go ❌
+
+
